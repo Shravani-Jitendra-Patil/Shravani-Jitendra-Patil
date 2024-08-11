@@ -19,4 +19,4 @@ Tools: Git, GitHub, VS Code, IntelliJ IDE
 As I continue my studies, I’m focused on developing the skills needed to innovate and contribute to the tech industry. I’m particularly interested in software engineering, AI, and full-stack development.
 
 📫 Connect with Me
-I love collaborating with others and learning from the tech community. Feel free to explore my repositories, reach out to me on LinkedIn((https://www.linkedin.com/in/shravani-patil-9536051b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), or drop a message here on GitHub!
+I love collaborating with others and learning from the tech community. Feel free to explore my repositories, reach out to me on LinkedIn(https://t.ly/G6DOc), or drop a message here on GitHub!
