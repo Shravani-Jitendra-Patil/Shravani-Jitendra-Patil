@@ -1,4 +1,3 @@
-👋 Hi, I’m Shravani Patil — Aspiring Computer Engineer
 Welcome to my GitHub! I’m Shravani Patil, a final-year B.Tech student at R.C. Patel Institute of Technology, Shirpur, passionate about building real-world software solutions using Java, JSP/Servlets, and web technologies.
 🌟 What I Bring to the Table
 💻 Core Java Projects: Developed multiple backend systems like OnlineExamination, BookChef, and Inventory Management using Servlets, JSP, and JDBC.
